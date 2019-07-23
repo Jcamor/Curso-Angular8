@@ -5,6 +5,6 @@ function saludar ( nombre:string ){
 
 var wolverine = {
     nombre: "Logan"
-};
+}
 
 saludar ( wolverine.nombre );
